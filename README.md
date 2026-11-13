@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kareem%20Deeb&fontSize=60&desc=Electrical%20Engineering%20%40%20McMaster%20%C2%B7%202029&descAlignY=68)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=from+registers+to+robots)](https://github.com/kareemdeeb)
-
 </div>
 
 ## 🌍 What Drives Me
