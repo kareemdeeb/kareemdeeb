@@ -6,11 +6,7 @@
 
 ## 🌍 What Drives Me
 
-I like the gap between what a circuit should do and what it actually does. On my 3D mapping project, the readings were bad because the stepper motor was still moving during a measurement. I found it by checking the timing step by step, and a 30 ms hold fixed it. On my CMOS XOR gate, I simulated it in PSpice, built it, and checked the real output on a scope and logic analyzer.
-
-Right now I'm in Level 3 Electrical Engineering at McMaster, working on computer architecture and performance labs (pipelines, caches, vectorization). I'm looking for a 12 or 16 month co-op starting May 2027 in embedded, FPGA or hardware validation.metal.
-
-I'm an Electrical Engineering Co-Op student at McMaster, looking for hardware and embedded co-op roles starting May 2027. I'm also interested in where ML meets hardware.
+I'm an Electrical Engineering Co-op student at McMaster who likes working close to the hardware. I started in embedded systems writing C for ARM Cortex-M4 microcontrollers, and now I'm getting into digital design and computer architecture. I'm also doing projects on performance, like analyzing processor pipelines in a simulator and comparing how sorting algorithms run in high performance programming labs. I'm looking for hardware co-op roles where I can learn how chips and systems are built and make them faster.
 
 ## 🛠️ Projects
 
