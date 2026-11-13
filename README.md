@@ -6,7 +6,9 @@
 
 ## 🌍 What Drives Me
 
-I like building things that interact with the physical world. Most of my work so far is embedded C/C++ on ARM Cortex-M4 microcontrollers: I2C, UART, GPIO and stepper motor control, all bare-metal.
+I like the gap between what a circuit should do and what it actually does. On my 3D mapping project, the readings were bad because the stepper motor was still moving during a measurement. I found it by checking the timing step by step, and a 30 ms hold fixed it. On my CMOS XOR gate, I simulated it in PSpice, built it, and checked the real output on a scope and logic analyzer.
+
+Right now I'm in Level 3 Electrical Engineering at McMaster, working on computer architecture and performance labs (pipelines, caches, vectorization). I'm looking for a 12 or 16 month co-op starting May 2027 in embedded, FPGA or hardware validation.metal.
 
 I'm an Electrical Engineering Co-Op student at McMaster, looking for hardware and embedded co-op roles starting May 2027. I'm also interested in where ML meets hardware.
 
